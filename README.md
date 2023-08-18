@@ -4,7 +4,7 @@
   
   🎓 Atualmente estou cursando *Análise e Desenvolvimento de Sistemas*.
 
-  🌱 Atualmente estou aprendendo *Java e Assembly*  e também interessado em *Desenvolvimento de Software*.
+  🌱 Atualmente estou aprendendo *Java e Typescript*  e também interessado em *Desenvolvimento de Software*.
 
   🎯 Meu objetivo é contribuir com o maior número possível de *projetos de código aberto*.
 
@@ -20,7 +20,7 @@
 
 ## Linguagens ✍️
 
-<div style="display: initial_block">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -33,6 +33,7 @@
 
 ## Ferramentas 🔧
 
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
