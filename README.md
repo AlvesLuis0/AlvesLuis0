@@ -1,24 +1,24 @@
-# Olá, sou o Luis Alves 👋
+# Hello, I'm Luis Alves 👋
 <table> 
 <td valign="center"> 
   
-  🎓 Atualmente estou cursando *Análise e Desenvolvimento de Sistemas*.
+  🎓 I'm currently studying *Systems Analysis and Development*.
 
-  🌱 Atualmente estou aprendendo *Java e Typescript*  e também interessado em *Desenvolvimento de Software*.
+  🌱 I'm currently learning *Java and Typescript* and interested also in *Software Development*.
 
-  🎯 Meu objetivo é contribuir com o maior número possível de *projetos de código aberto*.
+  🎯 My goal is to contribute to as many *open source projects* as possible.
 
-  ✨ Adoro criar diferentes tipos de *conteúdo*. 
+  ✨ I love  creating different types of *content*. 
     
 
-## Me contate📲
+## Contact me 📲
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alves.luis.3002)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alves-8380b8268/)<br/>
 
-# Tecnologias 🚀
+# Technologies 🚀
 
-## Linguagens ✍️
+## Programming Languages ✍️
 
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@
 <br/>
 
 
-## Ferramentas 🔧
+## Tools 🔧
 
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
