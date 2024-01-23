@@ -4,7 +4,7 @@
   
   🎓 I'm currently studying *Systems Analysis and Development*.
 
-  🌱 I'm currently learning *Java and Typescript* and interested also in *Software Development*.
+  🌱 I'm currently learning *Java and Cloud Computing* and interested also in *Software Development*.
 
   🎯 My goal is to contribute to as many *open source projects* as possible.
 
