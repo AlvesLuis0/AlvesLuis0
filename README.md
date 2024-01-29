@@ -46,3 +46,5 @@
 
 </td>
 </table>
+
+<img src="img/mario.gif" alt="Mario Coding">
